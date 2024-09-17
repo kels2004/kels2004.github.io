@@ -16,6 +16,10 @@ font-size: 1.5vw;
     -1px -1px 0px black,   / * Top-left shadow */
 }
 
+#Greece_101 {
+    color: aqua;
+}
+
 ul {
     margin: 0px;
 }
